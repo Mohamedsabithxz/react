@@ -1,0 +1,96 @@
+{
+  "uploadVideos": [
+    {
+      "id": "ee79",
+      "caption": "demo",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XC_P0zZqqv4fkWot6ytbFeIgaHALePMDJQ&s",
+      "youtubeLink": "https://www.youtube.com/embed/IPqkZobFjqg"
+    },
+    {
+      "id": "6452",
+      "caption": "demo",
+      "imgURL": "https://kykagroup.com/wp-content/uploads/2023/07/IMG-Worlds-of-Adventure-700x500.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/s0UVSJf1o1I"
+    },
+    {
+      "id": "6452",
+      "caption": "demo",
+      "imgURL": "https://kykagroup.com/wp-content/uploads/2023/07/IMG-Worlds-of-Adventure-700x500.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/s0UVSJf1o1I"
+    },
+    {
+      "id": "0e52",
+      "caption": "vaazha ",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/f/ff/Vaazha_Movie_Poster.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/-NEVvOEPubA"
+    },
+    {
+      "id": "2f8e",
+      "caption": "demo 1",
+      "imgURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+      "youtubeLink": "https://www.youtube.com/embed/c9uIXyFoU4U"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bf6f",
+      "categoryName": "Tutories",
+      "allVideos": []
+    },
+    {
+      "id": "1678",
+      "categoryName": "Trailes",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "57f3",
+      "caption": "demo 1",
+      "youtubeLink": "https://www.youtube.com/embed/c9uIXyFoU4U",
+      "timeStamp": "11/4/2024, 11:52:32 PM GMT+5:30"
+    },
+    {
+      "id": "4d6e",
+      "caption": "demo 1",
+      "youtubeLink": "https://www.youtube.com/embed/c9uIXyFoU4U",
+      "timeStamp": "11/5/2024, 12:01:43 AM GMT+5:30"
+    },
+    {
+      "id": "88ae",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/s0UVSJf1o1I",
+      "timeStamp": "11/5/2024, 12:01:47 AM GMT+5:30"
+    },
+    {
+      "id": "e93e",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/s0UVSJf1o1I",
+      "timeStamp": "11/6/2024, 7:35:19 PM GMT+5:30"
+    },
+    {
+      "id": "1799",
+      "caption": "vaazha ",
+      "youtubeLink": "https://www.youtube.com/embed/-NEVvOEPubA",
+      "timeStamp": "11/6/2024, 7:35:25 PM GMT+5:30"
+    },
+    {
+      "id": "5a86",
+      "caption": "demo 1",
+      "youtubeLink": "https://www.youtube.com/embed/c9uIXyFoU4U",
+      "timeStamp": "11/6/2024, 7:35:32 PM GMT+5:30"
+    },
+    {
+      "id": "d137",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/IPqkZobFjqg",
+      "timeStamp": "11/6/2024, 7:35:38 PM GMT+5:30"
+    },
+    {
+      "id": "c175",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/IPqkZobFjqg",
+      "timeStamp": "11/6/2024, 8:16:41 PM GMT+5:30"
+    }
+  ]
+}
